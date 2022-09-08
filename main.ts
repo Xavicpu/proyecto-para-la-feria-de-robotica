@@ -31,7 +31,7 @@ basic.forever(function () {
         . # # # .
         . # . # .
         . # . # .
-        . # . # #
+        # # # # #
         # # # # #
         `)
     music.setVolume(255)
